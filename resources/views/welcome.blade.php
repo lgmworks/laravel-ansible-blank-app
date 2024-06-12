@@ -55,7 +55,7 @@
                     </header>
 
                     <main class="mt-6 text-center" style="font-size: 62px; font-weight: 900">
-                       DEVELOP
+                       PRODUCTION
                     </main>
 
                     <footer class="py-16 text-center text-sm text-black dark:text-white/70">
